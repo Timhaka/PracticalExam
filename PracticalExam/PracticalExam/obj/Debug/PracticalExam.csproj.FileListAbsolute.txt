@@ -1,0 +1,7 @@
+C:\Users\timha\source\repos\PracticalExam\PracticalExam\bin\Debug\PracticalExam.exe.config
+C:\Users\timha\source\repos\PracticalExam\PracticalExam\bin\Debug\PracticalExam.exe
+C:\Users\timha\source\repos\PracticalExam\PracticalExam\bin\Debug\PracticalExam.pdb
+C:\Users\timha\source\repos\PracticalExam\PracticalExam\obj\Debug\PracticalExam.csprojResolveAssemblyReference.cache
+C:\Users\timha\source\repos\PracticalExam\PracticalExam\obj\Debug\PracticalExam.csproj.CoreCompileInputs.cache
+C:\Users\timha\source\repos\PracticalExam\PracticalExam\obj\Debug\PracticalExam.exe
+C:\Users\timha\source\repos\PracticalExam\PracticalExam\obj\Debug\PracticalExam.pdb
